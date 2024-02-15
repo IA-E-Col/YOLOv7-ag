@@ -4,8 +4,6 @@ import os
 import os.path
 from os import path
 
-data_folder = "/data/db/ecolplus/data/data_multilabel/Train"
-dest_folder = "/data/db/ecolplus/data/data_multilabel_net2/Train"
 
 #%%
 dir_list = ["amborella", "castanea", "convolvulaceae", "desmodium", "eugenia", "laurus", "litsea", "magnolia", "monimiaceae", "rubus", "ulmus"]
